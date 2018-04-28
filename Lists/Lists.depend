@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524907866 source:c:\users\lenovo\documents\lists\main.cpp
+	<iostream>
+	<list>
+
